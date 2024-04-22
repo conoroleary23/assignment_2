@@ -1,0 +1,154 @@
+---
+title: "*Lost Innocence*"
+subtitle: "**Uncovering Unicef's Coverage of Child Internal Displacements Worldwide From 2008-2022**"
+format: html 
+theme: cerulean
+toc: true
+author: Conor O'Leary
+date: 04/07/2024
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+# libraries
+library(tidyverse)
+# data
+unicef_indicator_2_ <- read_csv("unicef_indicator_2-.csv")
+options(scipen = 999)
+```
+
+![](unicef_twitter1.png)
+
+1.  [This report will provide a *comprehensive overview* of the critical issue of **internally displaced children** in the world today.]{.underline}
+
+2.  In a world marked by ***ongoing conflicts, natural disasters, and other humanitarian crises, the plight of displaced children is an urgent concern that demands our attention***. This report serves as a powerful tool to analyze the rate of internally displaced children globally, from *2008-2022*. [**The overall aim of the visualisation is to make the viewer understand the massive issue humanity faces today.**]{.underline}
+
+3.  It will become apparent that countries in the **global North fare a lot better than countries in the global south**. The reader will also see that conflict and adverse weather conditions lead to mass internal displacements.
+
+# [***1. Bar Plot***]{.underline}
+
+-   [***Bar plot*** documenting the continents with the greatest number of internally displaced children from 2008-2022]{.underline}
+
+-   ***The bar plot shows that the global South are heavily affected by child internal displacements in comparison to the global North***
+
+```{r}
+ggplot(unicef_indicator_2_, aes(x = Continent, fill = Continent)) +
+  geom_bar(width = 0.60) +
+  scale_fill_brewer(palette = 'Dark2') +
+  labs(title = "Combined overall Data by Continent",
+       x = "Continent",
+       y = "Displacements (in millions)") +
+  theme_minimal() + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+
+
+```
+
+# [**2. Scatter Plot**]{.underline}
+
+-   The viewer can clearly see that **Africa and Asia are severely effected.**
+-   Trend line shows ***Africa is expected to rise while there is a slight tale off for Asia.***
+-   **Europe and Oceania** experience very little due to being in the ***global North category of countries.***
+
+```{r}
+ggplot(unicef_indicator_2_) +
+  aes(x = time_period, y = obs_value, color = Continent) +
+  geom_point(alpha = 0.6, size = 2) +  # Adjust alpha and size here
+  geom_smooth(method = 'lm', se = FALSE, color = "black", linetype = "dashed") +
+  facet_wrap(~ Continent, nrow = 2) + 
+  labs(title = 'Evolution of child displacements from 2008 to 2022 per continent',
+       x = 'Years',
+       y = 'No. of displacements') +
+  theme_dark() +
+  theme(text = element_text(size = 13)) +
+  guides(color = "none")
+
+```
+
+# [**3. Time Series Line Graph**]{.underline}
+
+-   This graphs [***documents countries that have been most effected by child internal displacements.***]{.underline}
+
+-   Once again it is ***clear to see that countries in the global south dominate this chart***, however ***Ukraine, which is currently experiencing conflict with Russia has seen numbers shot up in recent years.***
+
+```{r}
+unicef_indicator_2_ %>%
+  filter(country %in% c("India", "Ethiopia", "Ukraine", "Pakistan", "China")) %>%
+  ggplot(aes(time_period, obs_value, color = country)) +
+  geom_line(linetype = 'dashed') +
+  geom_point() +
+  theme_dark() +
+  labs(y = 'Child Displacements',
+       x = 'Year',
+       title = 'Time Series Via Selected Country')
+
+```
+
+# [***4. World Map***]{.underline}
+
+-   ***This world map portrays a stark image for 2021.*** Clearly the viewer can see the vast amount of child displacements.
+
+-   The ***global south, namely Africa and Asia are the worst affected***, while the ***global North is relatively low, due to a more stable democracy and less exposure to natural disasters***
+
+```{r}
+obs_value_2021 <- unicef_indicator_2_ %>%
+  filter(time_period == 2021) 
+map_world <- map_data("world") 
+map_obs_value_2021 <- full_join(map_world, obs_value_2021, by = c("region" = "country"))
+ggplot(data = map_obs_value_2021) +
+  aes(x = long, y = lat, group = group, fill = obs_value, color = Continent) +
+  labs(title = '2021 world displacements') +
+  geom_polygon() +
+  scale_fill_gradient(low = "pink", high = "purple", na.value = "grey") +
+  labs(
+    title = "Number of child displacements in countires in 2021",
+    subtitle = "Countries in grey have no data due to none being avaible from Unicef",
+    caption = "Source: Unicef indicator 2 {Unicef}",
+    x = "Longitude",
+    y = "Latitude",
+    fill = "Number of Child Displacements"
+  ) 
+
+
+```
+
+# [***5. Box Plot***]{.underline}
+
+```{r}
+ggplot(unicef_indicator_2_, aes(x = obs_value, y = Continent)) +
+  geom_boxplot(fill = "purple", color = "black", horizontal = TRUE) +
+  labs(title = "Boxplot of Internally Displaced Children by Continent",
+       x = "Child Displacements",
+       y = "Continent") +
+  theme_minimal()
+```
+
+# [***6. Bar Plot of Total Child Displacements in China and India***]{.underline}
+
+-   This garphs displays both China's [***and India's all time child displacement figures from 2008-2022.***]{.underline}
+
+-   Countries that are ***not considered in the global North or developed countires clearly have a huge issue with child displacements.***
+
+```{r}
+china_india_data <- unicef_indicator_2_ %>%
+  filter(country %in% c("China", "India"))
+ggplot(china_india_data, aes(x = country, y = obs_value)) +
+  geom_bar(stat = "identity", fill = "orange", color = "black") +
+  labs(title = "Child Displacements in China and India",
+       x = "Country",
+       y = "Number of Displacements") +
+  theme_minimal()
+```
+
+# [**7. Conclusion**]{.underline}
+
+1.  **In conclusion** it is clear the see [***from the above report that there is a world wide epdemic of internally displaced children.***]{.underline}
+
+2.  ***Countries in the Global South are more effected than those in the Global North***
+
+3.  [***Countries with stable democracies see less child displacements, bar Ukraine, who are currently experincng conflict with Russia.***]{.underline}

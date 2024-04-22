@@ -1,0 +1,1841 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,Continent,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,New internal displacements,2008,1900,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2009,16000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2010,97000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2011,100000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2012,71000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2013,75000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2014,90000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2015,220000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2016,350000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2017,260000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2018,420000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2019,300000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2020,230000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2021,380000,Total,Asia,Number,,,,Under 18 years old
+Afghanistan,AF,AFG,4,New internal displacements,2022,130000,Total,Asia,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2009,41,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2013,110,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2014,5.6,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2015,950,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2016,680,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2017,760,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2018,23,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2019,6800,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2020,0,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2021,50,Total,Europe,Number,,,,Under 18 years old
+Albania,AL,ALB,8,New internal displacements,2022,63,Total,Europe,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2008,8500,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2009,840,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2013,110,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2014,1500,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2015,6500,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2016,1600,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2018,6.6,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2019,1100,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2020,3400,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2021,2300,Total,Africa,Number,,,,Under 18 years old
+Algeria,DZ,DZA,12,New internal displacements,2022,700,Total,Africa,Number,,,,Under 18 years old
+American Samoa,AS,ASM,16,New internal displacements,2018,1600,Total,Asia,Number,,,,Under 18 years old
+American Samoa,AS,ASM,16,New internal displacements,2020,130,Total,Asia,Number,,,,Under 18 years old
+American Samoa,AS,ASM,16,New internal displacements,2022,19,Total,Asia,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2009,45000,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2010,41000,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2011,120000,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2012,3300,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2013,1300,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2015,2900,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2016,9900,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2017,7200,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2018,5800,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2019,3500,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2020,13000,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2021,11000,Total,Africa,Number,,,,Under 18 years old
+Angola,AO,AGO,24,New internal displacements,2022,910,Total,Africa,Number,,,,Under 18 years old
+Anguilla,AI,AIA,660,New internal displacements,2017,110,Total,Americas,Number,,,,Under 18 years old
+Antigua and Barbuda,AG,ATG,28,New internal displacements,2008,13,Total,Americas,Number,,,,Under 18 years old
+Antigua and Barbuda,AG,ATG,28,New internal displacements,2017,350,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2008,200,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2012,600,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2013,2100,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2014,9500,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2015,11000,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2016,3600,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2017,5200,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2018,4600,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2019,6500,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2020,1000,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2021,200,Total,Americas,Number,,,,Under 18 years old
+Argentina,AR,ARG,32,New internal displacements,2022,200,Total,Americas,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2010,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2012,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2013,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2014,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2015,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2016,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2020,190,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2021,0,Total,Europe,Number,,,,Under 18 years old
+Armenia,AM,ARM,51,New internal displacements,2022,1800,Total,Europe,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2008,230,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2009,1700,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2010,230,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2011,2300,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2012,3600,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2013,2900,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2014,260,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2015,1300,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2016,730,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2017,6900,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2018,2500,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2019,5500,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2020,11000,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2021,11000,Total,Oceania,Number,,,,Under 18 years old
+Australia,AU,AUS,36,New internal displacements,2022,3700,Total,Oceania,Number,,,,Under 18 years old
+Austria,AT,AUT,40,New internal displacements,2013,180,Total,Europe,Number,,,,Under 18 years old
+Austria,AT,AUT,40,New internal displacements,2016,44,Total,Europe,Number,,,,Under 18 years old
+Austria,AT,AUT,40,New internal displacements,2019,47,Total,Europe,Number,,,,Under 18 years old
+Austria,AT,AUT,40,New internal displacements,2021,12,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2009,60,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2010,9300,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2012,10000,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2013,0,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2014,0,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2015,0,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2016,0,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2017,0,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2018,110,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2019,38,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2020,24000,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2021,0,Total,Europe,Number,,,,Under 18 years old
+Azerbaijan,AZ,AZE,31,New internal displacements,2022,52,Total,Europe,Number,,,,Under 18 years old
+Bahamas,BS,BHS,44,New internal displacements,2008,160,Total,Americas ,Number,,,,Under 18 years old
+Bahamas,BS,BHS,44,New internal displacements,2015,800,Total,Americas ,Number,,,,Under 18 years old
+Bahamas,BS,BHS,44,New internal displacements,2016,960,Total,Americas ,Number,,,,Under 18 years old
+Bahamas,BS,BHS,44,New internal displacements,2017,420,Total,Americas ,Number,,,,Under 18 years old
+Bahamas,BS,BHS,44,New internal displacements,2018,60,Total,Americas ,Number,,,,Under 18 years old
+Bahamas,BS,BHS,44,New internal displacements,2019,4500,Total,Americas ,Number,,,,Under 18 years old
+Bahamas,BS,BHS,44,New internal displacements,2020,0,Total,Americas ,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2008,25000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2009,540000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2010,230000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2011,160000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2012,250000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2013,430000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2014,200000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2015,190000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2016,220000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2017,330000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2018,27000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2019,1400000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2020,1500000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2021,32000,Total,Asia,Number,,,,Under 18 years old
+Bangladesh,BD,BGD,50,New internal displacements,2022,480000,Total,Asia,Number,,,,Under 18 years old
+Barbados,BB,BRB,52,New internal displacements,2016,20,Total,Americas,Number,,,,Under 18 years old
+Barbados,BB,BRB,52,New internal displacements,2019,22,Total,Americas,Number,,,,Under 18 years old
+Barbados,BB,BRB,52,New internal displacements,2021,78,Total,Americas,Number,,,,Under 18 years old
+Belgium,BE,BEL,56,New internal displacements,2018,10,Total,Europe,Number,,,,Under 18 years old
+Belgium,BE,BEL,56,New internal displacements,2019,2,Total,Europe,Number,,,,Under 18 years old
+Belgium,BE,BEL,56,New internal displacements,2021,3200,Total,Europe,Number,,,,Under 18 years old
+Belgium,BE,BEL,56,New internal displacements,2022,20,Total,Europe,Number,,,,Under 18 years old
+Belize,BZ,BLZ,84,New internal displacements,2008,170,Total,Americas,Number,,,,Under 18 years old
+Belize,BZ,BLZ,84,New internal displacements,2013,49,Total,Americas,Number,,,,Under 18 years old
+Belize,BZ,BLZ,84,New internal displacements,2015,95,Total,Americas,Number,,,,Under 18 years old
+Belize,BZ,BLZ,84,New internal displacements,2016,1300,Total,Americas,Number,,,,Under 18 years old
+Belize,BZ,BLZ,84,New internal displacements,2020,2200,Total,Americas,Number,,,,Under 18 years old
+Belize,BZ,BLZ,84,New internal displacements,2022,1700,Total,Americas,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2008,76000,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2009,20000,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2010,140000,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2012,5100,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2013,7700,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2016,480,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2017,1700,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2018,13000,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2019,2500,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2020,3400,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2021,4900,Total,Africa,Number,,,,Under 18 years old
+Benin,BJ,BEN,204,New internal displacements,2022,4000,Total,Africa,Number,,,,Under 18 years old
+Bermuda,BM,BMU,60,New internal displacements,2020,9,Total,Americas ,Number,,,,Under 18 years old
+Bhutan,BT,BTN,64,New internal displacements,2011,7000,Total,Asia,Number,,,,Under 18 years old
+Bhutan,BT,BTN,64,New internal displacements,2015,930,Total,Asia,Number,,,,Under 18 years old
+Bhutan,BT,BTN,64,New internal displacements,2016,200,Total,Asia,Number,,,,Under 18 years old
+Bhutan,BT,BTN,64,New internal displacements,2020,34,Total,Asia,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2009,260,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2010,41000,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2011,4500,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2012,3600,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2013,1900,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2014,75000,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2015,4400,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2016,2700,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2017,1200,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2018,900,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2019,29000,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2020,5000,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2021,330,Total,Europe,Number,,,,Under 18 years old
+"Bolivia, Plurinational State of",BO,BOL,68,New internal displacements,2022,1100,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2010,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2012,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2013,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2014,17000,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2015,60,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2016,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2017,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2018,0,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2019,49,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2020,160,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2021,56,Total,Europe,Number,,,,Under 18 years old
+Bosnia and Herzegovina,BA,BIH,70,New internal displacements,2022,14,Total,Europe,Number,,,,Under 18 years old
+Botswana,BW,BWA,72,New internal displacements,2009,360,Total,Africa,Number,,,,Under 18 years old
+Botswana,BW,BWA,72,New internal displacements,2013,500,Total,Africa,Number,,,,Under 18 years old
+Botswana,BW,BWA,72,New internal displacements,2014,800,Total,Africa,Number,,,,Under 18 years old
+Botswana,BW,BWA,72,New internal displacements,2015,100,Total,Africa,Number,,,,Under 18 years old
+Botswana,BW,BWA,72,New internal displacements,2017,770,Total,Africa,Number,,,,Under 18 years old
+Botswana,BW,BWA,72,New internal displacements,2018,640,Total,Africa,Number,,,,Under 18 years old
+Botswana,BW,BWA,72,New internal displacements,2020,300,Total,Africa,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2008,95000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2009,160000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2010,69000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2011,50000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2012,10000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2013,23000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2014,42000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2015,16000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2016,3600,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2017,19000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2018,22000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2019,75000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2020,90000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2021,120000,Total,Americas,Number,,,,Under 18 years old
+Brazil,BR,BRA,76,New internal displacements,2022,170000,Total,Americas,Number,,,,Under 18 years old
+"Virgin Islands, British",VG,VGB,92,New internal displacements,2017,1300,Total,Americas,Number,,,,Under 18 years old
+Brunei,BN,BRN,96,New internal displacements,2014,15,Total,Asia,Number,,,,Under 18 years old
+Brunei,BN,BRN,96,New internal displacements,2017,27,Total,Asia,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2012,350,Total,Europe,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2014,380,Total,Europe,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2015,140,Total,Europe,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2016,4,Total,Europe,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2017,3.7,Total,Europe,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2018,8.4,Total,Europe,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2021,4.2,Total,Europe,Number,,,,Under 18 years old
+Bulgaria,BG,BGR,100,New internal displacements,2022,150,Total,Europe,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2008,15000,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2009,78000,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2010,10000,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2013,920,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2015,1900,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2016,8800,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2017,6800,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2018,24000,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2019,260000,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2020,270000,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2021,350000,Total,Africa,Number,,,,Under 18 years old
+Burkina Faso,BF,BFA,854,New internal displacements,2022,220000,Total,Africa,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2008,1400,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2009,0,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2010,770,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2011,0,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2012,0,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2013,0,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2014,6500,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2015,14000,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2016,12000,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2017,13000,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2018,22000,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2019,15000,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2020,28000,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2021,46000,Total,Asia,Number,,,,Under 18 years old
+Burundi,BI,BDI,108,New internal displacements,2022,7100,Total,Asia,Number,,,,Under 18 years old
+Cape Verde,CV,CPV,132,New internal displacements,2014,890,Total,Africa,Number,,,,Under 18 years old
+Cape Verde,CV,CPV,132,New internal displacements,2015,66,Total,Africa,Number,,,,Under 18 years old
+Cape Verde,CV,CPV,132,New internal displacements,2016,100,Total,Africa,Number,,,,Under 18 years old
+Cape Verde,CV,CPV,132,New internal displacements,2020,240,Total,Africa,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2009,26000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2010,12000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2011,81000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2013,53000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2014,55000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2015,3200,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2016,3000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2017,5400,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2018,13000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2019,25000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2020,23000,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2021,5100,Total,Asia,Number,,,,Under 18 years old
+Cambodia,KH,KHM,116,New internal displacements,2022,9700,Total,Asia,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2008,510,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2010,1500,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2012,15000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2013,5000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2014,22000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2015,41000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2016,41000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2017,59000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2018,230000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2019,44000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2020,120000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2021,65000,Total,Africa,Number,,,,Under 18 years old
+Cameroon,CM,CMR,120,New internal displacements,2022,100000,Total,Africa,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2008,420,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2013,24000,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2014,1100,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2015,2600,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2016,18000,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2017,17000,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2018,3600,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2019,7900,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2020,4900,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2021,11000,Total,Americas,Number,,,,Under 18 years old
+Canada,CA,CAN,124,New internal displacements,2022,2700,Total,Americas,Number,,,,Under 18 years old
+Cayman Islands,KY,CYM,136,New internal displacements,2008,160,Total,Americas,Number,,,,Under 18 years old
+Cayman Islands,KY,CYM,136,New internal displacements,2021,7.9,Total,Americas,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2008,7400,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2009,16000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2010,13000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2011,12000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2012,67000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2013,520000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2014,97000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2015,120000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2016,30000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2017,300000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2018,290000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2019,110000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2020,190000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2021,280000,Total,Africa,Number,,,,Under 18 years old
+Central African Republic,CF,CAF,140,New internal displacements,2022,200000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2008,5500,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2009,3200,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2010,39000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2011,0,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2012,280000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2013,49000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2014,5400,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2015,20000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2016,23000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2017,3200,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2018,1100,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2019,48000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2020,82000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2021,36000,Total,Africa,Number,,,,Under 18 years old
+Chad,TD,TCD,148,New internal displacements,2022,130000,Total,Africa,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2008,12000,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2009,190,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2010,520000,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2011,1000,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2012,1800,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2013,900,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2014,240000,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2015,250000,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2016,3800,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2017,2100,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2018,590,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2019,880,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2020,760,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2021,550,Total,Americas,Number,,,,Under 18 years old
+Chile,CL,CHL,152,New internal displacements,2022,330,Total,Americas,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2008,4300000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2009,920000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2010,3600000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2011,1000000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2012,1300000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2013,1300000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2014,790000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2015,790000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2016,1600000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2017,970000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2018,870000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2019,870000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2020,1100000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2021,1300000,Total,Asia,Number,,,,Under 18 years old
+China,CN,CHN,156,New internal displacements,2022,740000,Total,Asia,Number,,,,Under 18 years old
+Hong Kong,HK,HKG,344,New internal displacements,2016,31,Total,Asia,Number,,,,Under 18 years old
+Hong Kong,HK,HKG,344,New internal displacements,2017,470,Total,Asia,Number,,,,Under 18 years old
+Hong Kong,HK,HKG,344,New internal displacements,2018,200,Total,Asia,Number,,,,Under 18 years old
+Hong Kong,HK,HKG,344,New internal displacements,2019,29,Total,Asia,Number,,,,Under 18 years old
+Hong Kong,HK,HKG,344,New internal displacements,2020,23,Total,Asia,Number,,,,Under 18 years old
+Hong Kong,HK,HKG,344,New internal displacements,2021,56,Total,Asia,Number,,,,Under 18 years old
+Hong Kong,HK,HKG,344,New internal displacements,2022,47,Total,Asia,Number,,,,Under 18 years old
+Macao,MO,MAC,446,New internal displacements,2018,920,Total,Asia,Number,,,,Under 18 years old
+Macao,MO,MAC,446,New internal displacements,2020,470,Total,Asia,Number,,,,Under 18 years old
+Macao,MO,MAC,446,New internal displacements,2021,6.2,Total,Asia,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2008,21000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2009,98000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2010,1100000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2011,80000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2012,94000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2013,52000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2014,47000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2015,67000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2016,58000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2017,46000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2018,59000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2019,47000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2020,45000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2021,43000,Total,Americas,Number,,,,Under 18 years old
+Colombia,CO,COL,170,New internal displacements,2022,160000,Total,Americas,Number,,,,Under 18 years old
+Comoros,KM,COM,174,New internal displacements,2012,5300,Total,Africa,Number,,,,Under 18 years old
+Comoros,KM,COM,174,New internal displacements,2014,5600,Total,Africa,Number,,,,Under 18 years old
+Comoros,KM,COM,174,New internal displacements,2017,43,Total,Africa,Number,,,,Under 18 years old
+Comoros,KM,COM,174,New internal displacements,2019,8600,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2009,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2010,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2011,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2012,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2013,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2014,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2015,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2016,12000,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2017,41000,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2018,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2019,80000,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2020,0,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2021,3200,Total,Africa,Number,,,,Under 18 years old
+Congo,CG,COG,178,New internal displacements,2022,20000,Total,Africa,Number,,,,Under 18 years old
+Cook Islands,CK,COK,184,New internal displacements,2010,220,Total,Oceania,Number,,,,Under 18 years old
+Cook Islands,CK,COK,184,New internal displacements,2016,1.8,Total,Oceania,Number,,,,Under 18 years old
+Cook Islands,CK,COK,184,New internal displacements,2021,3.4,Total,Oceania,Number,,,,Under 18 years old
+Cook Islands,CK,COK,184,New internal displacements,2022,2,Total,Oceania,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2008,3800,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2009,720,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2011,620,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2012,570,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2013,18,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2015,290,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2016,1600,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2017,5500,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2018,1500,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2019,99,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2020,1100,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2021,71,Total,Americas,Number,,,,Under 18 years old
+Costa Rica,CR,CRI,188,New internal displacements,2022,390,Total,Americas,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2010,0,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2014,3100,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2015,180,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2017,40,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2018,24,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2020,7100,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2021,0,Total,Europe,Number,,,,Under 18 years old
+Croatia,HR,HRV,191,New internal displacements,2022,17,Total,Europe,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2008,610000,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2012,74000,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2015,410,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2016,220000,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2017,350000,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2018,10000,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2019,1900,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2020,120000,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2021,37000,Total,Americas,Number,,,,Under 18 years old
+Cuba,CU,CUB,192,New internal displacements,2022,17000,Total,Americas,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2010,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2012,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2013,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2014,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2015,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2016,7.7,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2017,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2018,1.5,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2019,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2020,0,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2021,11,Total,Europe,Number,,,,Under 18 years old
+Cyprus,CY,CYP,196,New internal displacements,2022,10,Total,Europe,Number,,,,Under 18 years old
+Czech Republic,CZ,CZE,203,New internal displacements,2013,4700,Total,Europe,Number,,,,Under 18 years old
+Czech Republic,CZ,CZE,203,New internal displacements,2018,2.2,Total,Europe,Number,,,,Under 18 years old
+Czech Republic,CZ,CZE,203,New internal displacements,2020,8.1,Total,Europe,Number,,,,Under 18 years old
+Czech Republic,CZ,CZE,203,New internal displacements,2021,530,Total,Europe,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2009,5300,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2010,1400,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2011,510000,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2012,12000,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2013,15000,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2014,5100,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2015,1600,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2016,0,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2017,2700,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2018,1900,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2019,500,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2020,8100,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2021,0,Total,Africa,Number,,,,Under 18 years old
+Ivory Coast,CI,CIV,384,New internal displacements,2022,1200,Total,Africa,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2010,7300,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2011,6500,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2012,59000,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2013,20000,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2015,1400,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2016,26000,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2018,16000,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2019,1500,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2020,1200,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2021,1100,Total,Asia,Number,,,,Under 18 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,New internal displacements,2022,45,Total,Asia,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2008,2700,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2009,530000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2010,260000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2011,95000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2012,540000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2013,530000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2014,540000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2015,380000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2016,550000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2017,1200000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2018,1000000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2019,1000000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2020,1300000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2021,1900000,Total,Africa,Number,,,,Under 18 years old
+"Congo, the Democratic Republic of the",CD,COD,180,New internal displacements,2022,2300000,Total,Africa,Number,,,,Under 18 years old
+Denmark,DK,DNK,208,New internal displacements,2022,3.9,Total,Europe,Number,,,,Under 18 years old
+Djibouti,DJ,DJI,262,New internal displacements,2018,3600,Total,Africa,Number,,,,Under 18 years old
+Djibouti,DJ,DJI,262,New internal displacements,2019,3800,Total,Africa,Number,,,,Under 18 years old
+Djibouti,DJ,DJI,262,New internal displacements,2020,4.1,Total,Africa,Number,,,,Under 18 years old
+Djibouti,DJ,DJI,262,New internal displacements,2022,2200,Total,Africa,Number,,,,Under 18 years old
+Dominica,DM,DMA,212,New internal displacements,2011,27,Total,Americas,Number,,,,Under 18 years old
+Dominica,DM,DMA,212,New internal displacements,2013,4.9,Total,Americas,Number,,,,Under 18 years old
+Dominica,DM,DMA,212,New internal displacements,2015,190,Total,Americas,Number,,,,Under 18 years old
+Dominica,DM,DMA,212,New internal displacements,2017,8900,Total,Americas,Number,,,,Under 18 years old
+Dominica,DM,DMA,212,New internal displacements,2018,89,Total,Americas,Number,,,,Under 18 years old
+Dominica,DM,DMA,212,New internal displacements,2019,0,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2008,3300,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2011,6100,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2012,15000,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2013,5000,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2014,4000,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2015,9600,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2016,32000,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2017,23000,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2018,9100,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2019,1600,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2020,10000,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2021,3400,Total,Americas,Number,,,,Under 18 years old
+Dominican Republic,DO,DOM,214,New internal displacements,2022,17000,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2008,5200,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2010,180,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2012,1700,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2013,2700,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2014,200,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2015,660,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2016,98000,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2017,980,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2018,1500,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2019,480,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2020,380,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2021,1800,Total,Americas,Number,,,,Under 18 years old
+Ecuador,EC,ECU,218,New internal displacements,2022,2000,Total,Americas,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2008,7900,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2014,1900,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2015,3300,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2016,320,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2017,720,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2018,5900,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2019,1.5,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2020,3600,Total,Africa,Number,,,,Under 18 years old
+Egypt,EG,EGY,818,New internal displacements,2021,420,Total,Africa,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2008,38,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2009,5900,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2010,6000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2011,23000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2013,840,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2014,68000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2015,60000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2016,75000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2017,99000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2018,82000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2019,150000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2020,41000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2021,54000,Total,Asia,Number,,,,Under 18 years old
+El Salvador,SV,SLV,222,New internal displacements,2022,24000,Total,Asia,Number,,,,Under 18 years old
+Eritrea,ER,ERI,232,New internal displacements,2009,0,Total,Africa,Number,,,,Under 18 years old
+Eritrea,ER,ERI,232,New internal displacements,2010,0,Total,Africa,Number,,,,Under 18 years old
+Eritrea,ER,ERI,232,New internal displacements,2011,0,Total,Africa,Number,,,,Under 18 years old
+Eritrea,ER,ERI,232,New internal displacements,2012,0,Total,Africa,Number,,,,Under 18 years old
+Eritrea,ER,ERI,232,New internal displacements,2013,50,Total,Africa,Number,,,,Under 18 years old
+Eritrea,ER,ERI,232,New internal displacements,2014,0,Total,Africa,Number,,,,Under 18 years old
+Swaziland,SZ,SWZ,748,New internal displacements,2018,47,Total,Africa,Number,,,,Under 18 years old
+Swaziland,SZ,SWZ,748,New internal displacements,2021,43,Total,Africa,Number,,,,Under 18 years old
+Swaziland,SZ,SWZ,748,New internal displacements,2022,150,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2008,38000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2009,100000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2010,5200,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2011,26000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2012,10000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2013,120000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2014,93000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2015,79000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2016,310000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2017,560000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2018,1500000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2019,740000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2020,1100000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2021,2500000,Total,Africa,Number,,,,Under 18 years old
+Ethiopia,ET,ETH,231,New internal displacements,2022,1300000,Total,Africa,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2009,4900,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2010,6600,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2012,9700,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2014,280,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2016,27000,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2017,130,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2018,3500,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2019,1900,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2020,13000,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2021,4900,Total,Oceania,Number,,,,Under 18 years old
+Fiji,FJ,FJI,242,New internal displacements,2022,1600,Total,Oceania,Number,,,,Under 18 years old
+Finland,FI,FIN,246,New internal displacements,2008,4.1,Total,Europe,Number,,,,Under 18 years old
+Finland,FI,FIN,246,New internal displacements,2013,5.9,Total,Europe,Number,,,,Under 18 years old
+Finland,FI,FIN,246,New internal displacements,2018,9.8,Total,Europe,Number,,,,Under 18 years old
+Finland,FI,FIN,246,New internal displacements,2022,1.5,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2008,190,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2010,980,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2013,1500,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2014,890,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2015,26,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2016,41,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2017,4600,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2018,1400,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2019,1300,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2020,2200,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2021,1900,Total,Europe,Number,,,,Under 18 years old
+France,FR,FRA,250,New internal displacements,2022,9300,Total,Europe,Number,,,,Under 18 years old
+French Guiana,GF,GUF,254,New internal displacements,2020,53,Total,Americas,Number,,,,Under 18 years old
+French Polynesia,PF,PYF,258,New internal displacements,2010,1100,Total,Oceania,Number,,,,Under 18 years old
+French Polynesia,PF,PYF,258,New internal displacements,2017,320,Total,Oceania,Number,,,,Under 18 years old
+French Polynesia,PF,PYF,258,New internal displacements,2019,8.1,Total,Oceania,Number,,,,Under 18 years old
+French Polynesia,PF,PYF,258,New internal displacements,2020,7.1,Total,Oceania,Number,,,,Under 18 years old
+French Polynesia,PF,PYF,258,New internal displacements,2022,4.3,Total,Oceania,Number,,,,Under 18 years old
+Gabon,GA,GAB,266,New internal displacements,2009,350,Total,Africa,Number,,,,Under 18 years old
+Gabon,GA,GAB,266,New internal displacements,2012,690,Total,Africa,Number,,,,Under 18 years old
+Gabon,GA,GAB,266,New internal displacements,2013,760,Total,Africa,Number,,,,Under 18 years old
+Gabon,GA,GAB,266,New internal displacements,2017,3.4,Total,Africa,Number,,,,Under 18 years old
+Gabon,GA,GAB,266,New internal displacements,2020,0.84,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2008,210,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2010,13000,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2012,4000,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2013,210,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2016,2400,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2017,84000,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2019,2000,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2020,8700,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2021,1600,Total,Africa,Number,,,,Under 18 years old
+Gambia,GM,GMB,270,New internal displacements,2022,7400,Total,Africa,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2010,0,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2012,0,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2013,340,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2014,27,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2015,280,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2016,0,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2017,0,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2018,74,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2019,0,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2020,39,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2021,21,Total,Europe,Number,,,,Under 18 years old
+Georgia,GE,GEO,268,New internal displacements,2022,110,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2013,8600,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2016,330,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2017,36,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2018,83,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2019,110,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2020,0.33,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2021,2900,Total,Europe,Number,,,,Under 18 years old
+Germany,DE,DEU,276,New internal displacements,2022,110,Total,Europe,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2008,6600,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2009,24000,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2011,22000,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2013,14000,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2015,4200,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2016,3100,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2017,10000,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2018,29000,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2019,7900,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2020,870,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2021,5200,Total,Africa,Number,,,,Under 18 years old
+Ghana,GH,GHA,288,New internal displacements,2022,1200,Total,Africa,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2009,57,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2013,11,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2014,1400,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2015,47,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2016,510,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2017,140,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2018,1600,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2019,480,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2020,2200,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2021,11000,Total,Europe,Number,,,,Under 18 years old
+Greece,GR,GRC,300,New internal displacements,2022,120,Total,Europe,Number,,,,Under 18 years old
+Greenland,GL,GRL,304,New internal displacements,2017,19,Total,Americas,Number,,,,Under 18 years old
+Greenland,GL,GRL,304,New internal displacements,2018,42,Total,Americas,Number,,,,Under 18 years old
+Grenada,GD,GRD,308,New internal displacements,2017,42,Total,Americas,Number,,,,Under 18 years old
+Grenada,GD,GRD,308,New internal displacements,2018,7.7,Total,Americas,Number,,,,Under 18 years old
+Grenada,GD,GRD,308,New internal displacements,2019,7.4,Total,Americas,Number,,,,Under 18 years old
+Guadeloupe,GP,GLP,312,New internal displacements,2022,32,Total,Americas,Number,,,,Under 18 years old
+Guam,GU,GUM,316,New internal displacements,2018,770,Total,Americas,Number,,,,Under 18 years old
+Guam,GU,GUM,316,New internal displacements,2019,140,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2008,8500,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2009,460,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2010,75000,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2011,13000,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2012,28000,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2013,35,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2014,5100,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2015,1200,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2016,3300,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2017,19000,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2018,11000,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2019,8400,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2020,130000,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2021,6100,Total,Americas,Number,,,,Under 18 years old
+Guatemala,GT,GTM,320,New internal displacements,2022,29000,Total,Americas,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2011,2300,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2013,150,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2015,17000,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2016,240,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2017,350,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2018,1900,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2019,8.8,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2020,1200,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2021,1200,Total,Africa,Number,,,,Under 18 years old
+Guinea,GN,GIN,324,New internal displacements,2022,160,Total,Africa,Number,,,,Under 18 years old
+Guinea-Bissau,GW,GNB,624,New internal displacements,2008,380,Total,Africa,Number,,,,Under 18 years old
+Guinea-Bissau,GW,GNB,624,New internal displacements,2010,1000,Total,Africa,Number,,,,Under 18 years old
+Guinea-Bissau,GW,GNB,624,New internal displacements,2018,1800,Total,Africa,Number,,,,Under 18 years old
+Guinea-Bissau,GW,GNB,624,New internal displacements,2019,200,Total,Africa,Number,,,,Under 18 years old
+Guyana,GY,GUY,328,New internal displacements,2017,69,Total,Americas,Number,,,,Under 18 years old
+Guyana,GY,GUY,328,New internal displacements,2018,58,Total,Americas,Number,,,,Under 18 years old
+Guyana,GY,GUY,328,New internal displacements,2021,74,Total,Americas,Number,,,,Under 18 years old
+Guyana,GY,GUY,328,New internal displacements,2022,39,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2008,60000,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2009,4300,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2010,670000,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2011,210,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2012,36000,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2013,450,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2014,2700,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2015,600,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2016,140000,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2017,5800,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2018,3500,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2019,1300,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2020,8200,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2021,92000,Total,Americas,Number,,,,Under 18 years old
+Haiti,HT,HTI,332,New internal displacements,2022,46000,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2008,32000,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2009,1000,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2010,3500,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2011,5200,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2014,1000,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2015,820,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2016,6700,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2017,0,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2018,7100,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2019,150,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2020,350000,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2021,300,Total,Americas,Number,,,,Under 18 years old
+Honduras,HN,HND,340,New internal displacements,2022,17000,Total,Americas,Number,,,,Under 18 years old
+Hungary,HU,HUN,348,New internal displacements,2013,220,Total,Europe,Number,,,,Under 18 years old
+Hungary,HU,HUN,348,New internal displacements,2014,51,Total,Europe,Number,,,,Under 18 years old
+Hungary,HU,HUN,348,New internal displacements,2017,17,Total,Europe,Number,,,,Under 18 years old
+Hungary,HU,HUN,348,New internal displacements,2019,20,Total,Europe,Number,,,,Under 18 years old
+Hungary,HU,HUN,348,New internal displacements,2020,2.5,Total,Europe,Number,,,,Under 18 years old
+Iceland,IS,ISL,352,New internal displacements,2017,28,Total,Europe,Number,,,,Under 18 years old
+Iceland,IS,ISL,352,New internal displacements,2020,130,Total,Europe,Number,,,,Under 18 years old
+Iceland,IS,ISL,352,New internal displacements,2021,49,Total,Europe,Number,,,,Under 18 years old
+Iceland,IS,ISL,352,New internal displacements,2022,12,Total,Europe,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2008,2500000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2009,2000000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2010,560000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2011,560000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2012,3400000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2013,780000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2014,1300000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2015,1200000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2016,960000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2017,470000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2018,920000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2019,1600000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2020,1200000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2021,1500000,Total,Asia,Number,,,,Under 18 years old
+India,IN,IND,356,New internal displacements,2022,760000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2008,74000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2009,280000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2010,150000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2011,7400,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2012,36000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2013,140000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2014,300000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2015,65000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2016,380000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2017,120000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2018,270000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2019,150000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2020,220000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2021,230000,Total,Asia,Number,,,,Under 18 years old
+Indonesia,ID,IDN,360,New internal displacements,2022,95000,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2010,960,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2012,13000,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2013,1300,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2014,3300,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2015,1500,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2016,22,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2017,63000,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2018,21000,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2019,150000,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2020,14000,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2021,12000,Total,Asia,Number,,,,Under 18 years old
+"Iran, Islamic Republic of",IR,IRN,364,New internal displacements,2022,11000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2008,290,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2009,0,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2010,0,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2011,4800,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2012,0,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2013,9300,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2014,1000000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2015,530000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2016,300000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2017,630000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2018,97000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2019,63000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2020,31000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2021,29000,Total,Asia,Number,,,,Under 18 years old
+Iraq,IQ,IRQ,368,New internal displacements,2022,36000,Total,Asia,Number,,,,Under 18 years old
+Ireland,IE,IRL,372,New internal displacements,2015,410,Total,Europe,Number,,,,Under 18 years old
+Ireland,IE,IRL,372,New internal displacements,2017,15,Total,Europe,Number,,,,Under 18 years old
+Ireland,IE,IRL,372,New internal displacements,2020,12,Total,Europe,Number,,,,Under 18 years old
+Ireland,IE,IRL,372,New internal displacements,2021,5.9,Total,Europe,Number,,,,Under 18 years old
+Ireland,IE,IRL,372,New internal displacements,2022,6.1,Total,Europe,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2011,160,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2013,66,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2014,3500,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2016,25000,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2017,950,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2018,720,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2019,1200,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2020,4400,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2021,2300,Total,Asia,Number,,,,Under 18 years old
+Israel,IL,ISR,376,New internal displacements,2022,360,Total,Asia,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2009,13000,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2012,2800,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2013,630,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2014,270,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2015,220,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2016,5100,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2017,330,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2018,520,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2019,600,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2020,300,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2021,390,Total,Europe,Number,,,,Under 18 years old
+Italy,IT,ITA,380,New internal displacements,2022,620,Total,Europe,Number,,,,Under 18 years old
+Jamaica,JM,JAM,388,New internal displacements,2008,520,Total,Americas,Number,,,,Under 18 years old
+Jamaica,JM,JAM,388,New internal displacements,2012,620,Total,Americas,Number,,,,Under 18 years old
+Jamaica,JM,JAM,388,New internal displacements,2016,2000,Total,Americas,Number,,,,Under 18 years old
+Jamaica,JM,JAM,388,New internal displacements,2017,7.9,Total,Americas,Number,,,,Under 18 years old
+Jamaica,JM,JAM,388,New internal displacements,2018,1.9,Total,Americas,Number,,,,Under 18 years old
+Jamaica,JM,JAM,388,New internal displacements,2020,0.51,Total,Americas,Number,,,,Under 18 years old
+Jamaica,JM,JAM,388,New internal displacements,2021,4,Total,Americas,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2008,130,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2010,14000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2011,140000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2012,49000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2013,100000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2014,110000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2015,75000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2016,130000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2017,3100,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2018,22000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2019,39000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2020,27000,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2021,1900,Total,Asia,Number,,,,Under 18 years old
+Japan,JP,JPN,392,New internal displacements,2022,7200,Total,Asia,Number,,,,Under 18 years old
+Jordan,JO,JOR,400,New internal displacements,2013,180,Total,Asia,Number,,,,Under 18 years old
+Jordan,JO,JOR,400,New internal displacements,2017,62,Total,Asia,Number,,,,Under 18 years old
+Jordan,JO,JOR,400,New internal displacements,2018,790,Total,Asia,Number,,,,Under 18 years old
+Jordan,JO,JOR,400,New internal displacements,2019,18,Total,Asia,Number,,,,Under 18 years old
+Jordan,JO,JOR,400,New internal displacements,2020,53,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2010,1500,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2011,2700,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2012,1500,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2013,99,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2015,5900,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2016,330,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2017,2300,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2018,130,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2020,11000,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2021,48,Total,Asia,Number,,,,Under 18 years old
+Kazakhstan,KZ,KAZ,398,New internal displacements,2022,1400,Total,Asia,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2008,5100,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2009,46000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2010,27000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2011,34000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2012,110000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2013,110000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2014,110000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2015,50000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2016,24000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2017,30000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2018,160000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2019,35000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2020,150000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2021,19000,Total,Africa,Number,,,,Under 18 years old
+Kenya,KE,KEN,404,New internal displacements,2022,150000,Total,Africa,Number,,,,Under 18 years old
+Kiribati,KI,KIR,296,New internal displacements,2008,37,Total,Oceania,Number,,,,Under 18 years old
+Kiribati,KI,KIR,296,New internal displacements,2015,1100,Total,Oceania,Number,,,,Under 18 years old
+Kuwait,KW,KWT,414,New internal displacements,2022,3.4,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2008,400,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2010,110000,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2011,0,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2012,0,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2015,2200,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2016,15,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2017,1300,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2018,1800,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2019,300,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2020,100,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2021,18000,Total,Asia,Number,,,,Under 18 years old
+Kyrgyzstan,KG,KGZ,417,New internal displacements,2022,66000,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2009,16000,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2010,1900,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2011,21000,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2013,4000,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2014,320,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2015,4700,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2016,260,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2017,72,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2018,7200,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2019,38000,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2020,4600,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2021,1.8,Total,Asia,Number,,,,Under 18 years old
+Lao People's Democratic Republic,LA,LAO,418,New internal displacements,2022,200,Total,Asia,Number,,,,Under 18 years old
+Latvia,LV,LVA,428,New internal displacements,2018,4.4,Total,Europe,Number,,,,Under 18 years old
+Latvia,LV,LVA,428,New internal displacements,2022,5,Total,Europe,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2009,0,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2010,0,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2011,0,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2012,0,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2013,0,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2014,400,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2015,940,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2016,33,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2017,63,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2018,0,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2019,1400,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2020,0,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2021,300,Total,Asia,Number,,,,Under 18 years old
+Lebanon,LB,LBN,422,New internal displacements,2022,12,Total,Asia,Number,,,,Under 18 years old
+Lesotho,LS,LSO,426,New internal displacements,2010,2100,Total,Africa,Number,,,,Under 18 years old
+Lesotho,LS,LSO,426,New internal displacements,2011,1400,Total,Africa,Number,,,,Under 18 years old
+Lesotho,LS,LSO,426,New internal displacements,2014,1100,Total,Africa,Number,,,,Under 18 years old
+Lesotho,LS,LSO,426,New internal displacements,2018,570,Total,Africa,Number,,,,Under 18 years old
+Lesotho,LS,LSO,426,New internal displacements,2021,290,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2008,490,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2009,0,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2010,0,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2011,0,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2012,0,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2013,4900,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2014,320,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2016,4900,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2017,470,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2018,7400,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2019,290,Total,Africa,Number,,,,Under 18 years old
+Liberia,LR,LBR,430,New internal displacements,2020,1800,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2011,180000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2012,0,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2013,1100,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2014,130000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2015,37000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2016,57000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2017,11000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2018,25000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2019,78000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2020,14000,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2021,420,Total,Africa,Number,,,,Under 18 years old
+Libyan Arab Jamahiriya,LY,LBY,434,New internal displacements,2022,120,Total,Africa,Number,,,,Under 18 years old
+Luxembourg,LU,LUX,442,New internal displacements,2019,37,Total,Europe,Number,,,,Under 18 years old
+Luxembourg,LU,LUX,442,New internal displacements,2020,0.38,Total,Europe,Number,,,,Under 18 years old
+Luxembourg,LU,LUX,442,New internal displacements,2021,110,Total,Europe,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2008,98000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2009,4100,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2010,19000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2011,13000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2012,130000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2013,9700,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2014,1400,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2015,42000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2016,24000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2017,120000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2018,37000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2019,11000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2020,34000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2021,10000,Total,Africa,Number,,,,Under 18 years old
+Madagascar,MG,MDG,450,New internal displacements,2022,130000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2009,11000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2011,13000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2012,3300,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2013,17000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2014,320,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2015,180000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2016,5000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2017,44000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2018,10000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2019,60000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2020,15000,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2021,300,Total,Africa,Number,,,,Under 18 years old
+Malawi,MW,MWI,454,New internal displacements,2022,150000,Total,Africa,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2008,1400,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2010,22000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2011,7800,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2012,7000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2013,13000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2014,79000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2015,6200,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2016,5500,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2017,24000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2018,11000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2019,18000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2020,6500,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2021,35000,Total,Asia,Number,,,,Under 18 years old
+Malaysia,MY,MYS,458,New internal displacements,2022,42000,Total,Asia,Number,,,,Under 18 years old
+Maldives,MV,MDV,462,New internal displacements,2017,20,Total,Asia,Number,,,,Under 18 years old
+Maldives,MV,MDV,462,New internal displacements,2018,5.1,Total,Asia,Number,,,,Under 18 years old
+Maldives,MV,MDV,462,New internal displacements,2019,75,Total,Asia,Number,,,,Under 18 years old
+Maldives,MV,MDV,462,New internal displacements,2022,94,Total,Asia,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2008,1300,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2010,3100,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2011,9900,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2012,130000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2013,80000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2014,10000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2015,220,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2016,7800,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2017,23000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2018,79000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2019,160000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2020,150000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2021,140000,Total,Africa,Number,,,,Under 18 years old
+Mali,ML,MLI,466,New internal displacements,2022,96000,Total,Africa,Number,,,,Under 18 years old
+Marshall Islands,MH,MHL,584,New internal displacements,2008,270,Total,Oceania,Number,,,,Under 18 years old
+Marshall Islands,MH,MHL,584,New internal displacements,2014,540,Total,Oceania,Number,,,,Under 18 years old
+Marshall Islands,MH,MHL,584,New internal displacements,2019,79,Total,Oceania,Number,,,,Under 18 years old
+Marshall Islands,MH,MHL,584,New internal displacements,2022,11,Total,Oceania,Number,,,,Under 18 years old
+Martinique,MQ,MTQ,474,New internal displacements,2019,0.41,Total,Africa,Number,,,,Under 18 years old
+Mauritania,MR,MRT,478,New internal displacements,2010,2500,Total,Africa,Number,,,,Under 18 years old
+Mauritania,MR,MRT,478,New internal displacements,2013,2300,Total,Africa,Number,,,,Under 18 years old
+Mauritania,MR,MRT,478,New internal displacements,2017,1500,Total,Africa,Number,,,,Under 18 years old
+Mauritania,MR,MRT,478,New internal displacements,2018,220,Total,Africa,Number,,,,Under 18 years old
+Mauritania,MR,MRT,478,New internal displacements,2019,3300,Total,Africa,Number,,,,Under 18 years old
+Mauritania,MR,MRT,478,New internal displacements,2020,760,Total,Africa,Number,,,,Under 18 years old
+Mauritania,MR,MRT,478,New internal displacements,2022,11000,Total,Africa,Number,,,,Under 18 years old
+Mauritius,MU,MUS,480,New internal displacements,2015,330,Total,Asia,Number,,,,Under 18 years old
+Mauritius,MU,MUS,480,New internal displacements,2016,70,Total,Asia,Number,,,,Under 18 years old
+Mauritius,MU,MUS,480,New internal displacements,2017,23,Total,Asia,Number,,,,Under 18 years old
+Mauritius,MU,MUS,480,New internal displacements,2018,800,Total,Asia,Number,,,,Under 18 years old
+Mauritius,MU,MUS,480,New internal displacements,2019,220,Total,Asia,Number,,,,Under 18 years old
+Mauritius,MU,MUS,480,New internal displacements,2020,24,Total,Asia,Number,,,,Under 18 years old
+Mauritius,MU,MUS,480,New internal displacements,2022,28,Total,Asia,Number,,,,Under 18 years old
+Mayotte,YT,MYT,175,New internal displacements,2019,5300,Total,Africa,Number,,,,Under 18 years old
+Mayotte,YT,MYT,175,New internal displacements,2021,4.1,Total,Africa,Number,,,,Under 18 years old
+Mayotte,YT,MYT,175,New internal displacements,2022,0,Total,Africa,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2008,4800,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2009,140000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2010,360000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2011,200000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2012,2200,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2013,60000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2014,9100,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2015,32000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2016,11000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2017,68000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2018,9900,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2019,8300,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2020,34000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2021,14000,Total,Americas,Number,,,,Under 18 years old
+Mexico,MX,MEX,484,New internal displacements,2022,5800,Total,Americas,Number,,,,Under 18 years old
+"Micronesia, Federated States of",FM,FSM,583,New internal displacements,2015,2700,Total,Oceania,Number,,,,Under 18 years old
+Mongolia,MN,MNG,496,New internal displacements,2009,7300,Total,Asia,Number,,,,Under 18 years old
+Mongolia,MN,MNG,496,New internal displacements,2015,280,Total,Asia,Number,,,,Under 18 years old
+Mongolia,MN,MNG,496,New internal displacements,2018,2100,Total,Asia,Number,,,,Under 18 years old
+Mongolia,MN,MNG,496,New internal displacements,2019,4.7,Total,Asia,Number,,,,Under 18 years old
+Mongolia,MN,MNG,496,New internal displacements,2020,1500,Total,Asia,Number,,,,Under 18 years old
+Mongolia,MN,MNG,496,New internal displacements,2021,2300,Total,Asia,Number,,,,Under 18 years old
+Mongolia,MN,MNG,496,New internal displacements,2022,28,Total,Asia,Number,,,,Under 18 years old
+Montenegro,ME,MNE,499,New internal displacements,2010,320,Total,Europe,Number,,,,Under 18 years old
+Montenegro,ME,MNE,499,New internal displacements,2012,180,Total,Europe,Number,,,,Under 18 years old
+Montenegro,ME,MNE,499,New internal displacements,2016,89,Total,Europe,Number,,,,Under 18 years old
+Montenegro,ME,MNE,499,New internal displacements,2017,0.44,Total,Europe,Number,,,,Under 18 years old
+Montenegro,ME,MNE,499,New internal displacements,2018,1.3,Total,Europe,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2008,1800,Total,Africa,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2010,5200,Total,Africa,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2012,200,Total,Africa,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2014,560,Total,Africa,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2019,65,Total,Africa,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2020,110,Total,Africa,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2021,3.2,Total,Africa,Number,,,,Under 18 years old
+Morocco,MA,MAR,504,New internal displacements,2022,3000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2008,74000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2009,3800,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2010,68000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2011,11000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2012,5200,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2013,97000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2014,11000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2015,32000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2016,11000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2017,87000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2018,18000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2019,260000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2020,320000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2021,120000,Total,Africa,Number,,,,Under 18 years old
+Mozambique,MZ,MOZ,508,New internal displacements,2022,200000,Total,Africa,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2008,780000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2009,27000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2010,60000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2011,21000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2012,79000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2013,90000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2014,28000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2015,520000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2016,170000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2017,130000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2018,100000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2019,110000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2020,36000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2021,180000,Total,Asia,Number,,,,Under 18 years old
+Burma,MM,MMR,104,New internal displacements,2022,300000,Total,Asia,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2009,24000,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2010,4900,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2011,26000,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2012,170,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2013,7700,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2014,70,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2015,3.4,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2017,1400,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2018,5.5,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2019,0.84,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2020,84,Total,Africa,Number,,,,Under 18 years old
+Namibia,,NAM,516,New internal displacements,2021,110,Total,Africa,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2008,110000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2009,10000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2010,0,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2011,20000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2012,250,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2013,5200,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2014,30000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2015,1100000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2016,12000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2017,150000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2018,4600,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2019,45000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2020,17000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2021,12000,Total,Asia,Number,,,,Under 18 years old
+Nepal,NP,NPL,524,New internal displacements,2022,32000,Total,Asia,Number,,,,Under 18 years old
+Netherlands,NL,NLD,528,New internal displacements,2020,760,Total,Europe,Number,,,,Under 18 years old
+Netherlands,NL,NLD,528,New internal displacements,2021,9700,Total,Europe,Number,,,,Under 18 years old
+New Caledonia,NC,NCL,540,New internal displacements,2017,160,Total,Oceania,Number,,,,Under 18 years old
+New Caledonia,NC,NCL,540,New internal displacements,2018,13,Total,Oceania,Number,,,,Under 18 years old
+New Caledonia,NC,NCL,540,New internal displacements,2020,46,Total,Oceania,Number,,,,Under 18 years old
+New Caledonia,NC,NCL,540,New internal displacements,2021,1500,Total,Oceania,Number,,,,Under 18 years old
+New Caledonia,NC,NCL,540,New internal displacements,2022,45,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2010,63,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2011,570,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2012,110,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2013,51,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2015,110,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2016,420,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2017,1500,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2018,230,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2019,300,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2020,1100,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2021,980,Total,Oceania,Number,,,,Under 18 years old
+New Zealand,NZ,NZL,554,New internal displacements,2022,620,Total,Oceania,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2008,8000,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2010,25000,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2011,4200,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2013,63,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2014,14000,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2015,410,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2016,6900,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2017,7400,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2018,2500,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2019,210,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2020,140000,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2021,0,Total,Americas,Number,,,,Under 18 years old
+Nicaragua,NI,NIC,558,New internal displacements,2022,5600,Total,Americas,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2008,2400,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2009,3100,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2010,110000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2011,16000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2012,300000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2013,110000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2014,26000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2015,48000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2016,120000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2017,130000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2018,51000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2019,99000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2020,230000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2021,130000,Total,Africa,Number,,,,Under 18 years old
+Niger,NE,NER,562,New internal displacements,2022,190000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2009,73000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2010,290000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2011,36000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2012,2000000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2013,300000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2014,500000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2015,420000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2016,290000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2017,200000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2018,580000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2019,200000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2020,220000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2021,200000,Total,Africa,Number,,,,Under 18 years old
+Nigeria,NG,NGA,566,New internal displacements,2022,1300000,Total,Africa,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2010,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2012,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2013,350,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2014,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2015,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2016,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2017,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2018,10,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2019,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2020,0,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2021,15,Total,Europe,Number,,,,Under 18 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,New internal displacements,2022,0,Total,Europe,Number,,,,Under 18 years old
+Northern Mariana Islands,MP,MNP,580,New internal displacements,2018,3700,Total,Oceania,Number,,,,Under 18 years old
+Northern Mariana Islands,MP,MNP,580,New internal displacements,2019,230,Total,Oceania,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2014,150,Total,Europe,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2015,48,Total,Europe,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2016,56,Total,Europe,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2017,47,Total,Europe,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2019,130,Total,Europe,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2020,210,Total,Europe,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2021,160,Total,Europe,Number,,,,Under 18 years old
+Norway,NO,NOR,578,New internal displacements,2022,35,Total,Europe,Number,,,,Under 18 years old
+Oman,OM,OMN,512,New internal displacements,2013,90,Total,Asia,Number,,,,Under 18 years old
+Oman,OM,OMN,512,New internal displacements,2017,83,Total,Asia,Number,,,,Under 18 years old
+Oman,OM,OMN,512,New internal displacements,2018,2700,Total,Asia,Number,,,,Under 18 years old
+Oman,OM,OMN,512,New internal displacements,2019,300,Total,Asia,Number,,,,Under 18 years old
+Oman,OM,OMN,512,New internal displacements,2020,35,Total,Asia,Number,,,,Under 18 years old
+Oman,OM,OMN,512,New internal displacements,2021,1600,Total,Asia,Number,,,,Under 18 years old
+Oman,OM,OMN,512,New internal displacements,2022,14,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2008,42000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2009,1400000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2010,5300000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2011,220000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2012,1000000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2013,250000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2014,760000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2015,450000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2016,6700,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2017,34000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2018,1700,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2019,51000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2020,360000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2021,30000,Total,Asia,Number,,,,Under 18 years old
+Pakistan,PK,PAK,586,New internal displacements,2022,3500000,Total,Asia,Number,,,,Under 18 years old
+Palau,PW,PLW,585,New internal displacements,2012,39,Total,Oceania,Number,,,,Under 18 years old
+Palau,PW,PLW,585,New internal displacements,2013,380,Total,Oceania,Number,,,,Under 18 years old
+Palau,PW,PLW,585,New internal displacements,2021,620,Total,Oceania,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2012,1200,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2013,580,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2014,110,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2015,33,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2016,350,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2017,98,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2019,75,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2020,1200,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2021,690,Total,Americas,Number,,,,Under 18 years old
+Panama,PA,PAN,591,New internal displacements,2022,140,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2008,34000,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2009,440,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2012,33000,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2013,20,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2014,9600,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2015,0,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2016,810,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2017,580,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2018,26000,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2019,13000,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2020,1600,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2021,4400,Total,Americas,Number,,,,Under 18 years old
+Papua New Guinea,PG,PNG,598,New internal displacements,2022,30000,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2008,24,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2013,10000,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2014,31000,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2015,62000,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2016,1300,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2017,3500,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2018,11000,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2019,19000,Total,Americas,Number,,,,Under 18 years old
+Paraguay,PY,PRY,600,New internal displacements,2020,1.7,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2008,16000,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2009,16000,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2010,3500,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2011,960,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2012,63000,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2013,9500,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2014,320,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2015,2800,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2016,5600,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2017,97000,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2018,2800,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2019,3300,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2020,2700,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2021,1100,Total,Americas,Number,,,,Under 18 years old
+Peru,PE,PER,604,New internal displacements,2022,7400,Total,Americas,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2008,1100000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2009,1000000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2010,430000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2011,1000000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2012,1600000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2013,2900000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2014,2300000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2015,970000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2016,2400000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2017,1200000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2018,1500000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2019,1700000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2020,1700000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2021,2100000,Total,Asia,Number,,,,Under 18 years old
+Philippines,PH,PHL,608,New internal displacements,2022,2000000,Total,Asia,Number,,,,Under 18 years old
+Poland,PL,POL,616,New internal displacements,2010,5600,Total,Europe,Number,,,,Under 18 years old
+Poland,PL,POL,616,New internal displacements,2019,3.3,Total,Europe,Number,,,,Under 18 years old
+Poland,PL,POL,616,New internal displacements,2020,77,Total,Europe,Number,,,,Under 18 years old
+Poland,PL,POL,616,New internal displacements,2021,22,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2008,7.1,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2015,1.7,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2016,180,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2017,1200,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2018,69,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2019,110,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2020,4.6,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2021,5.6,Total,Europe,Number,,,,Under 18 years old
+Portugal,PT,PRT,620,New internal displacements,2022,720,Total,Europe,Number,,,,Under 18 years old
+Puerto Rico,PR,PRI,630,New internal displacements,2017,330,Total,Americas,Number,,,,Under 18 years old
+Puerto Rico,PR,PRI,630,New internal displacements,2018,72,Total,Americas,Number,,,,Under 18 years old
+Puerto Rico,PR,PRI,630,New internal displacements,2019,15000,Total,Americas,Number,,,,Under 18 years old
+Puerto Rico,PR,PRI,630,New internal displacements,2020,1900,Total,Americas,Number,,,,Under 18 years old
+Puerto Rico,PR,PRI,630,New internal displacements,2022,8100,Total,Americas,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2011,1100,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2013,780,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2016,1200,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2017,700,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2018,170,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2019,850,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2020,2800,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2021,420,Total,Asia,Number,,,,Under 18 years old
+South Korea,KR,KOR,410,New internal displacements,2022,4200,Total,Asia,Number,,,,Under 18 years old
+"Moldova, Republic of",MD,MDA,498,New internal displacements,2008,46,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2008,2000,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2014,420,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2015,30,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2016,280,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2018,230,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2019,88,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2020,55,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2021,79,Total,Europe,Number,,,,Under 18 years old
+Romania,RO,ROU,642,New internal displacements,2022,31,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2010,4200,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2011,650,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2012,6000,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2013,5600,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2014,4400,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2015,1300,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2016,730,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2017,1500,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2018,730,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2019,2400,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2020,51,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2021,1200,Total,Europe,Number,,,,Under 18 years old
+Russia,RU,RUS,643,New internal displacements,2022,2000,Total,Europe,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2008,2500,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2010,2900,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2011,900,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2012,1600,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2013,490,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2015,950,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2016,4600,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2017,2400,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2018,22000,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2019,5300,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2020,2800,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2021,6800,Total,Africa,Number,,,,Under 18 years old
+Rwanda,RW,RWA,646,New internal displacements,2022,3500,Total,Africa,Number,,,,Under 18 years old
+Réunion,RE,REU,638,New internal displacements,2021,3.9,Total,,Number,,,,Under 18 years old
+Saint Kitts and Nevis,KN,KNA,659,New internal displacements,2017,8.3,Total,Americas,Number,,,,Under 18 years old
+Saint Lucia,LC,LCA,662,New internal displacements,2013,320,Total,Americas,Number,,,,Under 18 years old
+Saint Lucia,LC,LCA,662,New internal displacements,2016,65,Total,Americas,Number,,,,Under 18 years old
+Saint Lucia,LC,LCA,662,New internal displacements,2019,5.8,Total,Americas,Number,,,,Under 18 years old
+Saint Lucia,LC,LCA,662,New internal displacements,2022,120,Total,Americas,Number,,,,Under 18 years old
+Saint Vincent and the Grenadines,VC,VCT,670,New internal displacements,2010,31,Total,Americas,Number,,,,Under 18 years old
+Saint Vincent and the Grenadines,VC,VCT,670,New internal displacements,2013,680,Total,Americas,Number,,,,Under 18 years old
+Saint Vincent and the Grenadines,VC,VCT,670,New internal displacements,2016,170,Total,Americas,Number,,,,Under 18 years old
+Saint Vincent and the Grenadines,VC,VCT,670,New internal displacements,2017,5.5,Total,Americas,Number,,,,Under 18 years old
+Saint Vincent and the Grenadines,VC,VCT,670,New internal displacements,2019,62,Total,Americas,Number,,,,Under 18 years old
+Saint Vincent and the Grenadines,VC,VCT,670,New internal displacements,2021,6100,Total,Americas,Number,,,,Under 18 years old
+Saint Vincent and the Grenadines,VC,VCT,670,New internal displacements,2022,0.78,Total,Americas,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2009,2400,Total,Oceania,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2012,3500,Total,Oceania,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2014,38,Total,Oceania,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2015,430,Total,Oceania,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2016,28,Total,Oceania,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2018,140,Total,Oceania,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2020,24,Total,Oceania,Number,,,,Under 18 years old
+Samoa,WS,WSM,882,New internal displacements,2022,6.1,Total,Oceania,Number,,,,Under 18 years old
+Sao Tome and Principe,ST,STP,678,New internal displacements,2021,230,Total,Africa,Number,,,,Under 18 years old
+Sao Tome and Principe,ST,STP,678,New internal displacements,2022,110,Total,Africa,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2009,3500,Total,Asia,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2011,2800,Total,Asia,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2013,1600,Total,Asia,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2016,88,Total,Asia,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2017,31,Total,Asia,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2018,630,Total,Asia,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2019,130,Total,Asia,Number,,,,Under 18 years old
+Saudi Arabia,SA,SAU,682,New internal displacements,2020,190,Total,Asia,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2009,130000,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2010,5900,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2011,820,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2012,10000,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2013,6600,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2014,0,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2015,0,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2016,12000,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2017,310,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2018,0.98,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2019,2200,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2020,1600,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2021,640,Total,Africa,Number,,,,Under 18 years old
+Senegal,SN,SEN,686,New internal displacements,2022,5800,Total,Africa,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2009,0,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2010,790,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2011,0,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2012,0,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2013,33,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2014,5700,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2016,6.7,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2017,7.3,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2018,22,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2019,51,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2020,150,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2021,5.8,Total,Europe,Number,,,,Under 18 years old
+Serbia,RS,SRB,688,New internal displacements,2022,0.17,Total,Europe,Number,,,,Under 18 years old
+Seychelles,SC,SYC,690,New internal displacements,2013,300,Total,Asia,Number,,,,Under 18 years old
+Seychelles,SC,SYC,690,New internal displacements,2014,1.9,Total,Asia,Number,,,,Under 18 years old
+Seychelles,SC,SYC,690,New internal displacements,2016,5.5,Total,Asia,Number,,,,Under 18 years old
+Sierra Leone,SL,SLE,694,New internal displacements,2013,4100,Total,Africa,Number,,,,Under 18 years old
+Sierra Leone,SL,SLE,694,New internal displacements,2017,5600,Total,Africa,Number,,,,Under 18 years old
+Sierra Leone,SL,SLE,694,New internal displacements,2018,1400,Total,Africa,Number,,,,Under 18 years old
+Sierra Leone,SL,SLE,694,New internal displacements,2019,3700,Total,Africa,Number,,,,Under 18 years old
+Sierra Leone,SL,SLE,694,New internal displacements,2020,0,Total,Africa,Number,,,,Under 18 years old
+Sierra Leone,SL,SLE,694,New internal displacements,2021,0,Total,Africa,Number,,,,Under 18 years old
+Sierra Leone,SL,SLE,694,New internal displacements,2022,360,Total,Africa,Number,,,,Under 18 years old
+Slovakia,SK,SVK,703,New internal displacements,2018,51,Total,Europe,Number,,,,Under 18 years old
+Slovakia,SK,SVK,703,New internal displacements,2020,11,Total,Europe,Number,,,,Under 18 years old
+Slovenia,SI,SVN,705,New internal displacements,2018,60,Total,Europe,Number,,,,Under 18 years old
+Slovenia,SI,SVN,705,New internal displacements,2022,90,Total,Europe,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2010,3700,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2012,490,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2013,1600,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2014,4200,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2015,470,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2016,620,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2017,270,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2018,490,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2019,14,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2020,150,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2021,460,Total,Oceania,Number,,,,Under 18 years old
+Solomon Islands,SB,SLB,90,New internal displacements,2022,5,Total,Oceania,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2008,6500,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2009,220000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2010,170000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2011,55000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2012,120000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2013,76000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2014,68000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2015,81000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2016,130000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2017,700000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2018,610000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2019,360000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2020,720000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2021,440000,Total,Africa,Number,,,,Under 18 years old
+Somalia,SO,SOM,706,New internal displacements,2022,950000,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2008,1300,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2009,7100,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2010,2100,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2011,18000,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2012,680,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2013,6000,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2014,1200,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2015,4.7,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2016,4100,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2017,4900,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2018,690,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2019,2500,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2020,120,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2021,3600,Total,Africa,Number,,,,Under 18 years old
+South Africa,ZA,ZAF,710,New internal displacements,2022,21000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2011,170000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2012,250000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2013,240000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2014,700000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2015,110000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2016,150000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2017,500000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2018,180000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2019,300000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2020,380000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2021,490000,Total,Africa,Number,,,,Under 18 years old
+South Sudan,SS,SSD,728,New internal displacements,2022,480000,Total,Africa,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2011,2700,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2012,3900,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2013,460,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2014,680,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2015,740,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2016,970,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2017,380,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2018,110,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2019,5000,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2020,1400,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2021,2300,Total,Europe,Number,,,,Under 18 years old
+Spain,ES,ESP,724,New internal displacements,2022,5200,Total,Europe,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2008,160000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2009,200000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2010,43000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2011,210000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2012,39000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2013,97000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2014,45000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2015,19000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2016,150000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2017,39000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2018,33000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2019,25000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2020,5500,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2021,34000,Total,Asia,Number,,,,Under 18 years old
+Sri Lanka,LK,LKA,144,New internal displacements,2022,3000,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2009,50000,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2010,540,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2011,540,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2012,6400,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2013,5600,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2014,240000,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2015,5100,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2016,990,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2017,360,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2018,230,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2019,700,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2020,500,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2021,54000,Total,Asia,Number,,,,Under 18 years old
+"Palestinian Territory, Occupied",PS,PSE,275,New internal displacements,2022,920,Total,Asia,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2008,23000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2009,300000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2010,250000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2011,66000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2012,290000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2013,370000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2014,360000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2015,74000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2016,110000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2017,34000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2018,77000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2019,170000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2020,250000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2021,260000,Total,Africa,Number,,,,Under 18 years old
+Sudan,SD,SDN,736,New internal displacements,2022,200000,Total,Africa,Number,,,,Under 18 years old
+Suriname,SR,SUR,740,New internal displacements,2013,100,Total,Africa,Number,,,,Under 18 years old
+Suriname,SR,SUR,740,New internal displacements,2017,2000,Total,Africa,Number,,,,Under 18 years old
+Suriname,SR,SUR,740,New internal displacements,2021,2100,Total,Africa,Number,,,,Under 18 years old
+Suriname,SR,SUR,740,New internal displacements,2022,460,Total,Africa,Number,,,,Under 18 years old
+Sweden,SE,SWE,752,New internal displacements,2014,200,Total,Europe,Number,,,,Under 18 years old
+Sweden,SE,SWE,752,New internal displacements,2015,21,Total,Europe,Number,,,,Under 18 years old
+Sweden,SE,SWE,752,New internal displacements,2018,26,Total,Europe,Number,,,,Under 18 years old
+Sweden,SE,SWE,752,New internal displacements,2019,9.9,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2013,2.4,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2015,65,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2017,29,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2018,3.2,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2019,1.8,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2020,2.3,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2021,26,Total,Europe,Number,,,,Under 18 years old
+Switzerland,CH,CHE,756,New internal displacements,2022,12,Total,Europe,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2009,0,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2010,0,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2011,67000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2012,1000000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2013,1600000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2014,520000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2015,620000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2016,1000000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2017,1400000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2018,750000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2019,800000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2020,770000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2021,220000,Total,Asia,Number,,,,Under 18 years old
+Syrian Arab Republic,SY,SYR,760,New internal displacements,2022,73000,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2010,870,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2012,2700,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2013,280,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2014,200,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2015,4900,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2016,1000,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2017,2000,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2018,2300,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2019,2000,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2020,640,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2021,6800,Total,Asia,Number,,,,Under 18 years old
+Tajikistan,TJ,TJK,762,New internal displacements,2022,110,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2008,49000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2009,16000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2010,230000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2011,390000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2012,770,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2013,3000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2014,5900,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2015,50,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2016,19000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2017,10000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2018,930,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2019,12000,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2020,2600,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2021,1900,Total,Asia,Number,,,,Under 18 years old
+Thailand,TH,THA,764,New internal displacements,2022,4100,Total,Asia,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2009,48,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2010,0,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2011,480,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2012,0,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2013,610,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2014,2000,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2015,140,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2016,51,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2020,490,Total,Africa,Number,,,,Under 18 years old
+Timor-Leste,TL,TLS,626,New internal displacements,2021,6700,Total,Africa,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2008,970,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2009,0,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2010,24000,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2011,0,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2012,0,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2013,56,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2014,0,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2015,2400,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2016,0,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2017,1300,Total,Oceania,Number,,,,Under 18 years old
+Togo,TG,TGO,768,New internal displacements,2022,8700,Total,Oceania,Number,,,,Under 18 years old
+Tonga,TO,TON,776,New internal displacements,2012,170,Total,Oceania,Number,,,,Under 18 years old
+Tonga,TO,TON,776,New internal displacements,2013,7.4,Total,Oceania,Number,,,,Under 18 years old
+Tonga,TO,TON,776,New internal displacements,2014,2300,Total,Oceania,Number,,,,Under 18 years old
+Tonga,TO,TON,776,New internal displacements,2016,1300,Total,Oceania,Number,,,,Under 18 years old
+Tonga,TO,TON,776,New internal displacements,2018,2400,Total,Oceania,Number,,,,Under 18 years old
+Tonga,TO,TON,776,New internal displacements,2020,1100,Total,Oceania,Number,,,,Under 18 years old
+Tonga,TO,TON,776,New internal displacements,2022,970,Total,Oceania,Number,,,,Under 18 years old
+Trinidad and Tobago,TT,TTO,780,New internal displacements,2013,7.1,Total,Africa,Number,,,,Under 18 years old
+Trinidad and Tobago,TT,TTO,780,New internal displacements,2017,48,Total,Africa,Number,,,,Under 18 years old
+Trinidad and Tobago,TT,TTO,780,New internal displacements,2018,200,Total,Africa,Number,,,,Under 18 years old
+Trinidad and Tobago,TT,TTO,780,New internal displacements,2019,11,Total,Africa,Number,,,,Under 18 years old
+Trinidad and Tobago,TT,TTO,780,New internal displacements,2020,7.7,Total,Africa,Number,,,,Under 18 years old
+Trinidad and Tobago,TT,TTO,780,New internal displacements,2022,9.1,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2013,1.7,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2015,34,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2017,290,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2018,970,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2019,9.3,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2020,2900,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2021,350,Total,Africa,Number,,,,Under 18 years old
+Tunisia,TN,TUN,788,New internal displacements,2022,590,Total,Africa,Number,,,,Under 18 years old
+Turkmenistan,TM,TKM,795,New internal displacements,2009,0,Total,Asia,Number,,,,Under 18 years old
+Turkmenistan,TM,TKM,795,New internal displacements,2010,0,Total,Asia,Number,,,,Under 18 years old
+Turkmenistan,TM,TKM,795,New internal displacements,2011,0,Total,Asia,Number,,,,Under 18 years old
+Turkmenistan,TM,TKM,795,New internal displacements,2012,0,Total,Asia,Number,,,,Under 18 years old
+Turkmenistan,TM,TKM,795,New internal displacements,2013,0,Total,Asia,Number,,,,Under 18 years old
+Turkmenistan,TM,TKM,795,New internal displacements,2014,0,Total,Asia,Number,,,,Under 18 years old
+Turks and Caicos Islands,TC,TCA,796,New internal displacements,2016,22,Total,Americas,Number,,,,Under 18 years old
+Turks and Caicos Islands,TC,TCA,796,New internal displacements,2017,13,Total,Americas,Number,,,,Under 18 years old
+Turks and Caicos Islands,TC,TCA,796,New internal displacements,2022,33,Total,Americas,Number,,,,Under 18 years old
+Tuvalu,TV,TUV,798,New internal displacements,2015,2000,Total,Americas,Number,,,,Under 18 years old
+Tuvalu,TV,TUV,798,New internal displacements,2020,73,Total,Americas,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2008,98,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2009,6500,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2010,64,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2011,79000,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2012,62,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2013,0,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2014,140,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2015,440,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2016,60000,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2017,0,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2018,180,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2019,720,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2020,11000,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2021,23000,Total,Europe,Number,,,,Under 18 years old
+Turkey,TR,TUR,792,New internal displacements,2022,1900,Total,Europe,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2008,8600,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2009,0,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2010,0,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2011,3700,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2012,120,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2013,17000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2014,28000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2015,330,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2016,14000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2017,53000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2018,94000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2019,49000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2020,37000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2021,25000,Total,Africa,Number,,,,Under 18 years old
+Uganda,UG,UGA,800,New internal displacements,2022,19000,Total,Africa,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2008,4500,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2013,110,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2014,120000,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2015,170000,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2016,20000,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2017,3900,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2018,2200,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2019,11,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2020,380,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2021,370,Total,Europe,Number,,,,Under 18 years old
+Ukraine,UA,UKR,804,New internal displacements,2022,3100000,Total,Europe,Number,,,,Under 18 years old
+United Arab Emirates,AE,ARE,784,New internal displacements,2017,140,Total,Asia,Number,,,,Under 18 years old
+United Arab Emirates,AE,ARE,784,New internal displacements,2019,35,Total,Asia,Number,,,,Under 18 years old
+United Arab Emirates,AE,ARE,784,New internal displacements,2020,100,Total,Asia,Number,,,,Under 18 years old
+United Arab Emirates,AE,ARE,784,New internal displacements,2021,6.5,Total,Asia,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2012,64,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2013,4300,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2014,130,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2015,1300,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2016,250,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2017,1300,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2018,34,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2019,2500,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2020,1700,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2021,110,Total,Europe,Number,,,,Under 18 years old
+United Kingdom,GB,GBR,826,New internal displacements,2022,390,Total,Europe,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2008,1300,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2009,5400,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2011,11000,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2012,5100,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2014,7000,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2015,1800,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2016,19000,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2017,980,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2018,14000,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2019,5500,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2020,28000,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2021,24000,Total,Africa,Number,,,,Under 18 years old
+"Tanzania, United Republic of",TZ,TZA,834,New internal displacements,2022,2100,Total,Africa,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2008,490000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2009,320,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2011,12000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2012,210000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2013,44000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2014,8000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2015,15000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2016,260000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2017,360000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2018,280000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2019,210000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2020,380000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2021,130000,Total,Americas,Number,,,,Under 18 years old
+United States,US,USA,840,New internal displacements,2022,150000,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2013,260,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2014,1300,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2015,6000,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2016,3100,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2017,2300,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2018,74,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2019,5300,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2020,88,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2021,37,Total,Americas,Number,,,,Under 18 years old
+Uruguay,UY,URY,858,New internal displacements,2022,180,Total,Americas,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2009,0,Total,Asia,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2010,0,Total,Asia,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2011,0,Total,Asia,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2012,0,Total,Asia,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2013,0,Total,Asia,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2014,0,Total,Asia,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2020,24000,Total,Asia,Number,,,,Under 18 years old
+Uzbekistan,UZ,UZB,860,New internal displacements,2022,59,Total,Asia,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2011,180,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2012,320,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2013,31,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2014,160,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2015,30000,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2017,6500,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2018,5900,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2019,460,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2020,37000,Total,Oceania,Number,,,,Under 18 years old
+Vanuatu,VU,VUT,548,New internal displacements,2022,170,Total,Oceania,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2008,1700,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2010,36000,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2012,350,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2015,15000,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2016,77,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2017,700,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2018,11000,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2019,110,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2020,800,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2021,11000,Total,Americas,Number,,,,Under 18 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,New internal displacements,2022,4400,Total,Americas,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2008,33000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2009,57000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2010,130000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2011,67000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2012,4300,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2013,290000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2014,19000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2015,2700,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2016,22000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2017,170000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2018,39000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2019,24000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2020,340000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2021,210000,Total,Asia,Number,,,,Under 18 years old
+Viet Nam,VN,VNM,704,New internal displacements,2022,94000,Total,Asia,Number,,,,Under 18 years old
+"Virgin Islands, U.S.",VI,VIR,850,New internal displacements,2017,520,Total,Americas,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2008,12000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2009,77000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2010,90000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2011,88000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2012,66000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2013,15000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2014,49000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2015,1100000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2016,250000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2017,76000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2018,130000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2019,200000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2020,170000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2021,210000,Total,Asia,Number,,,,Under 18 years old
+Yemen,YE,YEM,887,New internal displacements,2022,210000,Total,Asia,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2008,3100,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2009,29000,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2010,80,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2013,2900,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2014,14000,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2015,13,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2017,1500,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2018,11,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2019,660,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2020,3600,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2021,660,Total,Africa,Number,,,,Under 18 years old
+Zambia,ZM,ZMB,894,New internal displacements,2022,1800,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2009,7500,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2012,140,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2013,22000,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2014,11000,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2015,400,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2016,200,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2017,5000,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2018,520,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2019,25000,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2020,1900,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2021,1100,Total,Africa,Number,,,,Under 18 years old
+Zimbabwe,ZW,ZWE,716,New internal displacements,2022,600,Total,Africa,Number,,,,Under 18 years old
